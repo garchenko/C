@@ -1,2 +1,2 @@
-# C-digos-C
+# Codigos-C
 Meus programas feitos em linguagem C.
