@@ -1,5 +1,5 @@
-/*FaÁa um progama que receba dois numeros e mostre o maior deles.
-Caso eles sejam iguais, deve-se mostrar a mensagem "Os numeros s„o iguais".*/
+/*Fa√ßa um progama que receba dois numeros e mostre o maior deles.
+Caso eles sejam iguais, deve-se mostrar a mensagem "Os numeros s√£o iguais".*/
 
 #include <stdio.h>
 
