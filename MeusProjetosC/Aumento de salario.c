@@ -1,4 +1,4 @@
-/*Faça um progama que receba o salario de um funcionario
+/*FaÃ§a um progama que receba o salario de um funcionario
 e o percentual de aumento, calcule e mostre o valor do 
 aumento e o novo salario.*/
 
